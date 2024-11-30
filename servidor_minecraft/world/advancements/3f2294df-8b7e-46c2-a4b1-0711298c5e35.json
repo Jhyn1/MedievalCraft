@@ -135,6 +135,7 @@
       "minecraft:old_growth_birch_forest": "2024-11-17 06:24:53 +0000",
       "minecraft:deep_dark": "2024-11-20 00:14:58 +0000",
       "minecraft:meadow": "2024-11-17 06:41:51 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-11-30 05:07:00 +0000",
       "minecraft:savanna": "2024-11-21 19:27:39 +0000",
       "minecraft:plains": "2024-11-16 06:49:04 +0000"
     },
@@ -150,6 +151,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-16 02:22:47 +0000",
       "minecraft:skeleton": "2024-11-16 03:17:24 +0000",
+      "minecraft:ravager": "2024-11-30 02:59:01 +0000",
       "minecraft:guardian": "2024-11-24 01:59:48 +0000",
       "minecraft:vindicator": "2024-11-16 02:09:07 +0000",
       "minecraft:magma_cube": "2024-11-21 05:11:01 +0000",
@@ -165,6 +167,7 @@
       "minecraft:cave_spider": "2024-11-16 04:34:00 +0000",
       "minecraft:stray": "2024-11-16 05:56:43 +0000",
       "minecraft:enderman": "2024-11-17 03:42:11 +0000",
+      "minecraft:vex": "2024-11-30 03:12:35 +0000",
       "minecraft:zombie": "2024-11-15 08:01:21 +0000",
       "minecraft:drowned": "2024-11-17 06:20:32 +0000",
       "minecraft:zombie_villager": "2024-11-16 05:58:00 +0000"
@@ -846,9 +849,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_brick": {
+  "taxov:advancement_marine_sword": {
     "criteria": {
-      "forge": "2024-11-29 04:34:28 +0000"
+      "advancement_marine_sword_0": "2024-11-29 03:17:16 +0000"
     },
     "done": true
   },
@@ -858,9 +861,21 @@
     },
     "done": true
   },
-  "taxov:advancement_marine_sword": {
+  "taxov:advancement_marine_axe": {
     "criteria": {
-      "advancement_marine_sword_0": "2024-11-29 03:17:16 +0000"
+      "advancement_marine_axe_0": "2024-11-29 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-11-29 03:22:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-11-29 04:34:28 +0000"
     },
     "done": true
   },
@@ -870,15 +885,15 @@
     },
     "done": false
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
     "criteria": {
-      "requirement": "2024-11-29 03:22:05 +0000"
+      "requirement": "2024-11-30 03:12:36 +0000"
     },
     "done": true
   },
-  "taxov:advancement_marine_axe": {
+  "dungeons_arise:find_wishing_well": {
     "criteria": {
-      "advancement_marine_axe_0": "2024-11-29 03:17:18 +0000"
+      "location0": "2024-11-30 04:48:25 +0000"
     },
     "done": true
   },

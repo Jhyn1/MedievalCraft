@@ -192,8 +192,11 @@
       "minecraft:taiga": "2024-11-16 06:48:48 +0000",
       "minecraft:eroded_badlands": "2024-11-20 03:24:56 +0000",
       "minecraft:frozen_river": "2024-11-16 06:45:24 +0000",
+      "minecraft:windswept_hills": "2024-11-30 05:01:46 +0000",
       "minecraft:beach": "2024-11-29 04:47:02 +0000",
       "minecraft:river": "2024-11-16 06:42:07 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-30 03:23:50 +0000",
+      "minecraft:swamp": "2024-11-30 05:07:47 +0000",
       "minecraft:cold_ocean": "2024-11-29 04:06:26 +0000",
       "minecraft:forest": "2024-11-29 03:44:25 +0000",
       "minecraft:snowy_beach": "2024-11-16 04:15:13 +0000",
@@ -389,9 +392,15 @@
     },
     "done": true
   },
-  "majruszsdifficulty:bleeding": {
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
     "criteria": {
-      "bleeding_applied": "2024-11-29 04:24:45 +0000"
+      "requirement": "2024-11-29 03:21:34 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:refuse_quest": {
+    "criteria": {
+      "refuse_quest_0": "2024-11-29 03:36:45 +0000"
     },
     "done": true
   },
@@ -407,21 +416,64 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+  "majruszsdifficulty:bleeding": {
     "criteria": {
-      "requirement": "2024-11-29 03:21:34 +0000"
+      "bleeding_applied": "2024-11-29 04:24:45 +0000"
     },
     "done": true
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
-      "blue": "2024-11-29 05:18:08 +0000"
+      "blue": "2024-11-29 05:18:08 +0000",
+      "lavender": "2024-11-30 05:26:50 +0000"
     },
     "done": false
   },
-  "realmrpg_quests:refuse_quest": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "refuse_quest_0": "2024-11-29 03:36:45 +0000"
+      "lightning_rod_with_villager_no_fire": "2024-11-30 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-30 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-11-30 04:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-30 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 04:39:26 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2024-11-30 04:43:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-11-30 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-11-30 05:42:38 +0000"
     },
     "done": true
   },
